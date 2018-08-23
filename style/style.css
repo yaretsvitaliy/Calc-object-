@@ -1,0 +1,31 @@
+.button, .operation, .resultClass {
+	margin: 3px;
+	width: 40px;
+	width: 40px;
+	font-size: 20px;
+	border-radius: 2px;
+	background: rgba(153, 155, 254, .5);
+}
+
+.result {
+	width: 197px;
+	height: 30px;
+	font-size: 25px;
+	border-radius: 5px;
+	background: rgb(204, 204, 255);
+	opacity: .6;
+	margin-bottom: 10px;
+}
+
+.button:hover {
+	background: rgba(0,0,0,0.1);
+	color: white;
+}
+
+.number {
+	background: rgba(102, 102, 51, .5);
+}
+
+.show {
+	display: none;
+}
